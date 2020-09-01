@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Boolean AmIAlive;
+            bool AmIAlive;
 
             Console.WriteLine("Hello Niklas");
 
@@ -30,7 +30,7 @@ namespace HelloWorld
 
             Console.WriteLine("you are " + age + " years old" + '\n' + "your name is " + name);
 
-            if (AmIAlive = true) {
+            if (AmIAlive == true) {
                 Console.WriteLine("you are alive");
             }
             else {
