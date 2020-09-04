@@ -6,41 +6,82 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            bool AmIAlive;
+             var AmIAlive = false;
 
-            Console.WriteLine("Hello Niklas");
+            Console.WriteLine("Starting in");
 
-            Console.WriteLine("How old are u");
-            int age = Convert.ToInt32(Console.ReadLine());
+            for (int i = 3;i>=0;i--) {
 
-            Console.WriteLine("What is your name");
-            String name = Console.ReadLine();
+                Console.WriteLine(i);
 
-            Console.WriteLine("are u alive? type yes or no");
 
-            String UAlive = Console.ReadLine();
-
-            if (UAlive.Equals("yes")) {
-                AmIAlive = true;
             }
-            else
+
+             Console.WriteLine("How old are u");
+             var age = Convert.ToInt32(Console.ReadLine());
+
+             Console.WriteLine("What is your name");
+             var name = Console.ReadLine();
+
+             Console.WriteLine("are u alive? type yes or no");
+
+             var UAlive = Console.ReadLine();
+
+             if (UAlive.Equals("yes")) {
+                 AmIAlive = true;
+             }
+
+
+
+            switch (name)
             {
-                AmIAlive = false;
+                case "Niklas":
+                    Console.WriteLine("Hello Niklas");
+                    break;
+
+                case "Malte":
+
+                    Console.WriteLine("hello Malte");
+
+                    break;
+                default:
+                    Console.WriteLine("Hello person");
+                    break;
             }
 
-            Console.WriteLine("you are " + age + " years old" + '\n' + "your name is " + name);
-
-            if (AmIAlive == true) {
-                Console.WriteLine("you are alive");
+            if (age <= 12)
+            {
+                Console.WriteLine("get off game");
             }
             else {
-                Console.WriteLine("you are not alive");
+
+                Console.WriteLine("u good lets play game");
+
             }
 
+
+            while (true)
+            {
+                if (AmIAlive)
+                {
+                    Console.WriteLine("hmm... *pulls out gun and shoots you* u sure?");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Atleast i dont have to shoot you... Again");
+                    break;
+                }
+
+            }
+
+
+
+            }
 
 
 
 
         }
     }
-}
+
