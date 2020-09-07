@@ -19,8 +19,18 @@ namespace HelloWorld
              Console.WriteLine("How old are u");
              var age = Convert.ToInt32(Console.ReadLine());
 
-             Console.WriteLine("What is your name");
-             var name = Console.ReadLine();
+             Console.WriteLine("What is your names");
+             
+            String[] names = {"","","","","" };
+
+            for (int i = 0;i <5;i++)
+            {
+                names[i] = Console.ReadLine();
+            }
+
+
+            
+
 
              Console.WriteLine("are u alive? type yes or no");
 
@@ -30,7 +40,7 @@ namespace HelloWorld
 
 
 
-            switch (name)
+            switch (names[0])
             {
                 case "Niklas":
                     Console.WriteLine("Hello Niklas");
@@ -57,6 +67,9 @@ namespace HelloWorld
             }
 
 
+            
+
+
             while (true)
             {
                 if (UAlive.Equals("yes"))
@@ -74,9 +87,16 @@ namespace HelloWorld
 
             }
 
+            int j = 4;
+            foreach (String i in names)
+            {
 
-
+                Console.WriteLine(names[j]);
+                j--;
             }
+
+
+        }
 
 
 
