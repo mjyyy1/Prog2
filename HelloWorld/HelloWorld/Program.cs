@@ -6,7 +6,6 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-             var AmIAlive = false;
 
             Console.WriteLine("Starting in");
 
@@ -27,9 +26,7 @@ namespace HelloWorld
 
              var UAlive = Console.ReadLine();
 
-             if (UAlive.Equals("yes")) {
-                 AmIAlive = true;
-             }
+             
 
 
 
@@ -62,16 +59,18 @@ namespace HelloWorld
 
             while (true)
             {
-                if (AmIAlive)
+                if (UAlive.Equals("yes"))
                 {
                     Console.WriteLine("hmm... *pulls out gun and shoots you* u sure?");
                     break;
                 }
-                else
-                {
+                else if (!UAlive.Equals("yes")){
                     Console.WriteLine("Atleast i dont have to shoot you... Again");
                     break;
                 }
+                
+                    
+                
 
             }
 
