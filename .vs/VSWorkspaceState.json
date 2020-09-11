@@ -2,7 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\HelloWorld",
-    "\\HelloWorld\\HelloWorld"
+    "\\HelloWorld\\HelloWorld\\bin"
   ],
   "SelectedNode": "\\HelloWorld\\HelloWorld.sln",
   "PreviewInSolutionExplorer": false

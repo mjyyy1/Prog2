@@ -29,15 +29,13 @@ namespace Metoder
             var j = words.Length - 1;
             for (int i = 0; i < words.Length; i++)
             {
-               
+
 
                 Console.WriteLine(words[j]);
 
                 j--;
 
             }
-
-
         }
     
         static (int,int) BigSmol(int[] nums)//tuples används i dethär sammanhanget för att returna två tal
