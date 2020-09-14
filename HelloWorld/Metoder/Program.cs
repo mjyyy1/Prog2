@@ -17,8 +17,7 @@ namespace Metoder
             Console.WriteLine("Largest " + BigSmol(nums).Item1 + " Smallest " +  BigSmol(nums).Item2);
 
         }
-        3
-        static int Add(int[] nums)
+                static int Add(int[] nums)
         {
             
             return nums.Sum();
