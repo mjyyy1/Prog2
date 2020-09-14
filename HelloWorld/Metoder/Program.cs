@@ -17,7 +17,7 @@ namespace Metoder
             Console.WriteLine("Largest " + BigSmol(nums).Item1 + " Smallest " +  BigSmol(nums).Item2);
 
         }
-
+        3
         static int Add(int[] nums)
         {
             
@@ -36,6 +36,7 @@ namespace Metoder
                 j--;
 
             }
+
         }
     
         static (int,int) BigSmol(int[] nums)//tuples används i dethär sammanhanget för att returna två tal
