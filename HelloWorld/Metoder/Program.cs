@@ -38,10 +38,8 @@ namespace Metoder
 
         }
     
-        static (int,int) BigSmol(int[] nums)//tuples används i dethär sammanhanget för att returna två tal
+        static (int, int) BigSmol(int[] nums)//tuples används i dethär sammanhanget för att returna två tal
         {
-
-
 
 
             return (nums.Max(), nums.Min());
