@@ -1,0 +1,12 @@
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\bin\Debug\netcoreapp3.1\OopIntro.exe
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\bin\Debug\netcoreapp3.1\OopIntro.deps.json
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\bin\Debug\netcoreapp3.1\OopIntro.runtimeconfig.json
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\bin\Debug\netcoreapp3.1\OopIntro.runtimeconfig.dev.json
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\bin\Debug\netcoreapp3.1\OopIntro.dll
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\bin\Debug\netcoreapp3.1\OopIntro.pdb
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\obj\Debug\netcoreapp3.1\OopIntro.AssemblyInfoInputs.cache
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\obj\Debug\netcoreapp3.1\OopIntro.AssemblyInfo.cs
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\obj\Debug\netcoreapp3.1\OopIntro.csproj.CoreCompileInputs.cache
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\obj\Debug\netcoreapp3.1\OopIntro.dll
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\obj\Debug\netcoreapp3.1\OopIntro.pdb
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\obj\Debug\netcoreapp3.1\OopIntro.genruntimeconfig.cache
