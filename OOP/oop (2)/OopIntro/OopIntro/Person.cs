@@ -47,5 +47,10 @@ namespace OopIntro
         {
             Console.WriteLine(_name + " is not sleeping");
         }
+
+        public static void SayName(Person person)
+        {
+            Console.Write(person._name);
+        }
     }
 }

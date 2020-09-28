@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\HelloWorld",
-    "\\HelloWorld\\OOP"
+    "\\OOP",
+    "\\OOP\\LabbOOP"
   ],
-  "SelectedNode": "\\HelloWorld\\OOP",
+  "SelectedNode": "\\OOP\\LabbOOP\\LabbOOP.sln",
   "PreviewInSolutionExplorer": false
 }

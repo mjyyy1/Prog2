@@ -10,3 +10,4 @@ C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\o
 C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\obj\Debug\netcoreapp3.1\OopIntro.dll
 C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\obj\Debug\netcoreapp3.1\OopIntro.pdb
 C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\obj\Debug\netcoreapp3.1\OopIntro.genruntimeconfig.cache
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\oop (2)\OopIntro\OopIntro\obj\Debug\netcoreapp3.1\OopIntro.csprojAssemblyReference.cache

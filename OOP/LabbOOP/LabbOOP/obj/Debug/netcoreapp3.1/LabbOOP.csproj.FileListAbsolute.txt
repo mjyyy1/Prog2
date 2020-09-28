@@ -1,0 +1,13 @@
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\obj\Debug\netcoreapp3.1\LabbOOP.csprojAssemblyReference.cache
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\obj\Debug\netcoreapp3.1\LabbOOP.AssemblyInfoInputs.cache
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\obj\Debug\netcoreapp3.1\LabbOOP.AssemblyInfo.cs
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\obj\Debug\netcoreapp3.1\LabbOOP.csproj.CoreCompileInputs.cache
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\bin\Debug\netcoreapp3.1\LabbOOP.exe
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\bin\Debug\netcoreapp3.1\LabbOOP.deps.json
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\bin\Debug\netcoreapp3.1\LabbOOP.runtimeconfig.json
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\bin\Debug\netcoreapp3.1\LabbOOP.runtimeconfig.dev.json
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\bin\Debug\netcoreapp3.1\LabbOOP.dll
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\bin\Debug\netcoreapp3.1\LabbOOP.pdb
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\obj\Debug\netcoreapp3.1\LabbOOP.dll
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\obj\Debug\netcoreapp3.1\LabbOOP.pdb
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\LabbOOP\LabbOOP\obj\Debug\netcoreapp3.1\LabbOOP.genruntimeconfig.cache
