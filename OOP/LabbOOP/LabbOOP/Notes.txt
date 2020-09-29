@@ -1,3 +1,5 @@
 ﻿Lägga till kund(Customer) -> lägga till produkter på kunden (Items) -> confirm
 Lägga till en ny kund/lägga till flera saker till en gammal kund/visa produkter på exsisterande kund
 (Visa saker på alla kunder)
+
+Flera kunder(Array?? or List??)

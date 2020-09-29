@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LabbOOP
 {
-    class Customer
+    public class Customer
     {
         public string _firstName;
         public string _sureName;
