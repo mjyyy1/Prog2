@@ -7,26 +7,79 @@ namespace LabbOOP
     {
         static void Main(string[] args)
         {
-
-            Customer Name = new Customer("Malte","Erlandsson");
-
-            Console.WriteLine(Name._firstName + " " +  Name._sureName);
-
-            List<string> human = new List<string>();
-            List<Customer> Customers = new List<Customer>();
-
-            human.Add("malte");
-            human.Add("malte1");
-            human.Add("malte2");
-
-            Console.WriteLine();
-            foreach (string aPart in human)
+            List<Customer> Customers = new List<Customer>();//skapar en lista som man sedan kan fylla på som man vill
+            bool custom = true;
+            var x = 0;
+            while (custom)
             {
-                Console.WriteLine(aPart);
-            }
 
-            Customers.Add(Console.ReadLine(), Console.ReadLine());
+                Console.WriteLine('\n' + "Action");
+                Console.WriteLine("1 - New Customer");
+                Console.WriteLine("2 - Show Customers");
+                Console.WriteLine("3 - stop");
+
+                while (true)
+                {
+                    try
+                    {
+                        x = int.Parse(Console.ReadLine());
+                    }
+                    catch (Exception)
+                    {
+
+                        Console.WriteLine('\n' + "a number please");
+                    }
+                    break;
+                }
+                
+                
+
+                switch (x)
+                {
+
+                    case 1:
+                        {
+                            NewCustomer(Customers);
+                            break;
+                        }
+                    case 2:
+                        {
+                            DisplayCustomers(Customers);
+                            break;
+                        }
+                    case 3:
+                        {
+                            custom = false;
+                            break;
+                        }
+                    default:
+                        break;
+                }
+
+            }
             
         }
+
+        
+        
+        static List<Customer> NewCustomer(List <Customer> Customers)
+        //metod som skapar en ny Customer
+        {
+            Console.WriteLine('\n' + "Type first name and surename" + '\n');
+            Customers.Add(new Customer(Console.ReadLine(), Console.ReadLine()));
+            return Customers;
+        }
+
+
+       
+        static void DisplayCustomers(List<Customer> Customers)
+        //metod som skriver ut alla customers
+        {
+            foreach (Customer item in Customers)
+            {
+                Console.WriteLine(item._firstName + " " + item._sureName);
+            }
+        }
+
     }
 }
