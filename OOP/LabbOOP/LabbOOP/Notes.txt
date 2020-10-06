@@ -3,3 +3,13 @@ Lägga till en ny kund/lägga till flera saker till en gammal kund/visa produkte
 (Visa saker på alla kunder)
 
 Flera kunder(Array?? or List??)
+
+
+
+Items.Add(new Item("milk"));
+            Items.Add(new Item("apple"));
+            foreach (Item item in Items)
+            {
+                Console.WriteLine(item._item);
+
+            }

@@ -4,14 +4,16 @@ using System.Text;
 
 namespace LabbOOP
 {
-    class Items
+    class Item
     {
-        public string _apple;
+        public string _item;
+       
 
 
-        public Items(string apple)
+
+        public Item(string item)
         {
-            _apple = apple;
+            _item = item;
 
 
         }
