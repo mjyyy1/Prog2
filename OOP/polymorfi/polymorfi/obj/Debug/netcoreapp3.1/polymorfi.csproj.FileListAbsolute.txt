@@ -1,0 +1,13 @@
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\obj\Debug\netcoreapp3.1\polymorfi.csprojAssemblyReference.cache
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\obj\Debug\netcoreapp3.1\polymorfi.AssemblyInfoInputs.cache
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\obj\Debug\netcoreapp3.1\polymorfi.AssemblyInfo.cs
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\obj\Debug\netcoreapp3.1\polymorfi.csproj.CoreCompileInputs.cache
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\bin\Debug\netcoreapp3.1\polymorfi.exe
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\bin\Debug\netcoreapp3.1\polymorfi.deps.json
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\bin\Debug\netcoreapp3.1\polymorfi.runtimeconfig.json
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\bin\Debug\netcoreapp3.1\polymorfi.runtimeconfig.dev.json
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\bin\Debug\netcoreapp3.1\polymorfi.dll
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\bin\Debug\netcoreapp3.1\polymorfi.pdb
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\obj\Debug\netcoreapp3.1\polymorfi.dll
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\obj\Debug\netcoreapp3.1\polymorfi.pdb
+C:\Users\malte.erlandsson\Documents\GitHub\Prog2\OOP\polymorfi\polymorfi\obj\Debug\netcoreapp3.1\polymorfi.genruntimeconfig.cache

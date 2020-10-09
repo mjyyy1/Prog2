@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HelloWorld",
     "\\OOP",
-    "\\OOP\\LabbOOP"
+    "\\OOP\\LabbOOP",
+    "\\OOP\\polymorfi"
   ],
-  "SelectedNode": "\\OOP\\LabbOOP\\LabbOOP.sln",
+  "SelectedNode": "\\OOP\\polymorfi\\polymorfi.sln",
   "PreviewInSolutionExplorer": false
 }
