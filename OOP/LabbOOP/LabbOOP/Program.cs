@@ -178,6 +178,18 @@ namespace LabbOOP
                             Console.WriteLine(Items[0]._item);
                             break;
                         }
+                    case 2:
+                        {
+
+                            Console.WriteLine(Items[1]._item);
+                            break;
+                        }
+                    case 3:
+                        {
+
+                            Console.WriteLine(Items[2]._item);
+                            break;
+                        }
 
                     default:
                         break;
