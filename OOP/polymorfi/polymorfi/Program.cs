@@ -20,7 +20,7 @@ namespace polymorfi
 
             nocco.Flavor = "Cola";
             nocco.ProductNumber = 234;
-            nocco.stockStatus = 15;
+            nocco.stockStatus = 16;
 
             cart.Add(nocco);
 
