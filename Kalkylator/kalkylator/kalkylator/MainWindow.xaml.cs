@@ -23,6 +23,14 @@ namespace kalkylator
         public MainWindow()
         {
             InitializeComponent();
+            
+        }
+
+      
+
+        void noll(object sender, RoutedEventArgs e)
+        {
+            Output.Text = "uuh";
         }
     }
 }
