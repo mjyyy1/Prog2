@@ -30,7 +30,7 @@ namespace kalkylator
 
         void noll(object sender, RoutedEventArgs e)
         {
-            Output.Text = "uuh";
+            Output.Text = "bababooey ";
         }
     }
 }
