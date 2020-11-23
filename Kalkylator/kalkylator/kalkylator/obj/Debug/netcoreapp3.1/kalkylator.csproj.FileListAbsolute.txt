@@ -24,11 +24,9 @@ C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\bin\Debug\
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\bin\Debug\netcoreapp3.1\kalkylator.dll
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\bin\Debug\netcoreapp3.1\kalkylator.pdb
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\kalkylator.csprojAssemblyReference.cache
-C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\kalkylator_MarkupCompile.cache
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\kalkylator_MarkupCompile.lref
-C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\MainWindow.baml
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\kalkylator.g.resources
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\kalkylator.AssemblyInfoInputs.cache
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\kalkylator.AssemblyInfo.cs
@@ -36,3 +34,6 @@ C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\kalkylator.dll
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\kalkylator.pdb
 C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\kalkylator.genruntimeconfig.cache
+C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\bin\Debug\netcoreapp3.1\kalkylator.dll.config
+C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\MainWindow (2).g.cs
+C:\Users\Elev\Documents\GitHub\Prog2\Kalkylator\kalkylator\kalkylator\obj\Debug\netcoreapp3.1\MainWindow (2).baml
