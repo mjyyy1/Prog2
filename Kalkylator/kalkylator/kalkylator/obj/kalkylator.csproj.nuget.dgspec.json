@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\malte.erlandsson\\Documents\\GitHub\\Prog2\\Kalkylator\\kalkylator\\kalkylator\\kalkylator.csproj": {}
+    "C:\\Users\\Elev\\Documents\\GitHub\\Prog2\\Kalkylator\\kalkylator\\kalkylator\\kalkylator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\malte.erlandsson\\Documents\\GitHub\\Prog2\\Kalkylator\\kalkylator\\kalkylator\\kalkylator.csproj": {
+    "C:\\Users\\Elev\\Documents\\GitHub\\Prog2\\Kalkylator\\kalkylator\\kalkylator\\kalkylator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\malte.erlandsson\\Documents\\GitHub\\Prog2\\Kalkylator\\kalkylator\\kalkylator\\kalkylator.csproj",
+        "projectUniqueName": "C:\\Users\\Elev\\Documents\\GitHub\\Prog2\\Kalkylator\\kalkylator\\kalkylator\\kalkylator.csproj",
         "projectName": "kalkylator",
-        "projectPath": "C:\\Users\\malte.erlandsson\\Documents\\GitHub\\Prog2\\Kalkylator\\kalkylator\\kalkylator\\kalkylator.csproj",
-        "packagesPath": "C:\\Users\\malte.erlandsson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\malte.erlandsson\\Documents\\GitHub\\Prog2\\Kalkylator\\kalkylator\\kalkylator\\obj\\",
+        "projectPath": "C:\\Users\\Elev\\Documents\\GitHub\\Prog2\\Kalkylator\\kalkylator\\kalkylator\\kalkylator.csproj",
+        "packagesPath": "C:\\Users\\Elev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elev\\Documents\\GitHub\\Prog2\\Kalkylator\\kalkylator\\kalkylator\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\malte.erlandsson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
