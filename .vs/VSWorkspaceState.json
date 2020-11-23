@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OOP\\oop (2)\\OopIntro"
+    "\\Kalkylator",
+    "\\Kalkylator\\kalkylator",
+    "\\Kalkylator\\kalkylator\\kalkylator"
   ],
-  "SelectedNode": "\\OOP",
+  "SelectedNode": "\\Kalkylator\\kalkylator\\kalkylator\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
