@@ -133,6 +133,13 @@ namespace bruhh
         }
         void Equals(object sender, RoutedEventArgs e)
         {
+          
+          if (String.IsNullOrEmpty(input)||(input.StartsWith(",")&& input.EndsWith(",")))
+	        {}
+            else{
+
+	
+
             calc2 = Convert.ToDouble(input);
             input = "";
             if (plus == true)
@@ -166,10 +173,12 @@ namespace bruhh
                 {
                     sum = 000;
                 }
-
-
+                
+                
+            }
             }
 
+	
             input = Convert.ToString(sum);
             Output.Text = input;
             plus = false;
@@ -177,6 +186,9 @@ namespace bruhh
             div = false;
             multip = false;
             usedcomma = false;
+            calc1 = 0;
+            calc2 = 0;
+
             input = "";
         }
         void Plus(object sender, RoutedEventArgs e)
@@ -285,6 +297,7 @@ namespace bruhh
         {
             calc1 = 0;
             calc2 = 0;
+            sum = 0;
             input = "";
             Output.Text = input;
         }
