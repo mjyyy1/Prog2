@@ -9,21 +9,22 @@ namespace Abstraktion
 
         public Dog()
         {
-                
+            NumberOfLimbs = 4;
+            Color = "black";
         }
         public override void Breathe()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Dog  breathes");
         }
 
         public override void Eat()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Dog eats");
         }
 
         public override void Rest()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Dog takes a nap");
         }
     }
 }

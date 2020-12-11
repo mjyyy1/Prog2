@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Abstraktion
 {
@@ -6,7 +7,7 @@ namespace Abstraktion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<Animal> animals = new List<Animal>();
         }
     }
 }
