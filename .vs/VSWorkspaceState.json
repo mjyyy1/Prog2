@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Kalkylator",
-    "\\Kalkylator\\kalkylator",
-    "\\Kalkylator\\kalkylator\\idk",
-    "\\Kalkylator\\kalkylator\\idk\\bruhh",
-    "\\Kalkylator\\kalkylator\\idk\\bruhh\\bruhh",
-    "\\Kalkylator\\kalkylator\\kalkylator"
+    "\\solidlabbs",
+    "\\solidlabbs\\SOLID-Labb",
+    "\\solidlabbs\\SOLID-Labb\\SOLID-Labb"
   ],
-  "SelectedNode": "\\Kalkylator\\kalkylator\\idk\\bruhh\\bruhh\\MainWindow.xaml.cs",
+  "SelectedNode": "\\solidlabbs\\SOLID-Labb\\SOLID-Labb\\Animal.cs",
   "PreviewInSolutionExplorer": false
 }
