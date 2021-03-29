@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\solidlabbs",
-    "\\solidlabbs\\SOLID-Labb",
-    "\\solidlabbs\\SOLID-Labb\\SOLID-Labb"
+    "\\StrategyUppgift",
+    "\\StrategyUppgift\\strategything",
+    "\\StrategyUppgift\\strategything\\strategything",
+    "\\StrategyUppgift\\strategything\\strategything\\Strategy"
   ],
-  "SelectedNode": "\\solidlabbs\\SOLID-Labb\\SOLID-Labb\\Animal.cs",
+  "SelectedNode": "\\StrategyUppgift\\strategything\\strategything\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

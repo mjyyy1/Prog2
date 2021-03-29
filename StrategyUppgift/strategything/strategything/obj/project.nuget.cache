@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L1JsSEH/4G81Ltugmvx6RyKrzU0eg7JLdzO4y/3SmUgp6izRsp/UtM2mZc8whV2TNN2fXn5O33DsXRyaejCOAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Malte\\Documents\\GitHub\\Prog2\\StrategyUppgift\\strategything\\strategything\\strategything.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Malte\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Malte\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
